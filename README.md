@@ -41,3 +41,16 @@ Digital Forensics,
 Incident Documentation,
 Threat Analysis,
 Critical Thinking,
+
+Recommendations
+
+Block the sender and associated malicious indicators.
+Quarantine all related emails.
+Scan affected systems for additional compromise.
+Educate users on recognizing phishing attempts.
+Monitor the environment for similar activity.
+Update email filtering rules to prevent future attacks.
+
+Conclusion
+
+This project demonstrates my ability to perform a structured phishing email investigation using industry-relevant tools and methodologies. It showcases my ability to identify threats, analyze suspicious artifacts, document findings, and communicate recommendations, core skills expected of a Tier 1 SOC Analyst.
